@@ -18,7 +18,7 @@ Git
 ⚙️ Setup & Installation
 
 1. Clone the repository
-git clone git@github.com-personal:wonwomen07/prompt_engineering.git
+
 cd prompt_engineering
 
 2. Create and activate a virtual environment
